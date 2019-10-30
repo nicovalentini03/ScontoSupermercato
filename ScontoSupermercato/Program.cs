@@ -7,6 +7,7 @@ namespace ScontoSupermercato
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.ReadLine();
         }
     }
 }
